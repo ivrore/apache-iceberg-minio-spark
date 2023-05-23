@@ -1,0 +1,14 @@
+{
+    "Servers": {
+      "1": {
+        "Name": "MyServer",
+        "Port": 5432,
+        "Username": "icebergcat",
+        "Group": "GFT",
+        "Host": "db",
+        "SSLMode": "prefer",
+        "MaintenanceDB": "postgres",
+        "Comment": "This is my server for API ingestion"
+      }
+    }
+  }
